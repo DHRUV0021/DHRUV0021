@@ -1,5 +1,5 @@
 
-![logo](https://github.com/DHRUV0021/DHRUV0021/blob/main/Github%20Banner.png)
+![logo](https://github.com/DHRUV0021/DHRUV0021/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png)
 
 <h1 align="center">Hi 👋, I'm Gorasiya Dhruv</h1>
 <h3 align="center">A passionate Software Enginner devloper from India</h3>
