@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Angular,Angular Material,Typescript**
 
-- 📫 How to reach me **gorasiyadhruv@gmail.com**
+- 📫 How to reach me **gorasiyadhruv0021@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
